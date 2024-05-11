@@ -1,0 +1,21 @@
+#myDiv{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background-color: dodgerblue;
+    margin: 200px auto;
+    border: 2px double black;
+}
+
+/* 
+#myDiv:hover{
+    background-color: darkcyan;
+}
+
+
+#myDiv:active{
+    background-color: palegreen;
+}
+ */
+
+
